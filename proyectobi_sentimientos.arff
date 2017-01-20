@@ -1,0 +1,93 @@
+@relation proyectobi_sentimientos
+
+@attribute adjetivopositivo	{si, none}
+@attribute adjetivonegativo {si, none}
+@attribute negacionadjetivopositivo	{si, none}
+@attribute negacionadjetivonegativo	{si, none}
+@attribute verbopositivo {si, none}
+@attribute verbonegativo {si, none}
+@attribute negacionverbopositivo {si, none}
+@attribute negacionverbonegativo {si, none}
+@attribute preposicionpositivo {si, none}
+@attribute preposicionnegativo {si, none}
+@attribute clase {si,no ,neutro}
+
+@data
+none,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,si,none,none,none,si,none,si
+none,none,none,none,none,si,none,none,none,none,neutro
+none,si,none,none,none,si,none,none,none,none,no
+si,none,si,none,none,none,none,none,none,none,neutro
+si,si,si,none,si,none,none,none,none,si,no
+none,none,none,none,none,si,none,none,si,none,no
+si,si,none,none,none,si,none,none,none,none,no
+si,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,si,none,none,none,si,none,si
+none,none,none,none,none,si,none,none,si,none,no
+si,none,none,none,si,none,none,none,si,none,si
+si,none,none,none,si,none,none,none,none,none,neutro
+si,none,none,none,none,si,none,none,none,none,no
+si,none,none,none,si,si,none,none,none,none,si
+none,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,si,none,none,none,si,none,si
+si,none,none,none,si,si,none,none,none,none,si
+si,none,none,none,si,none,none,none,none,none,si
+si,none,none,none,si,none,none,none,none,none,si
+si,none,none,none,si,none,none,none,none,none,si
+si,none,none,none,si,none,none,none,none,none,si
+none,si,none,none,none,none,none,none,none,si,no
+none,si,none,none,none,si,none,none,none,none,no
+none,none,none,none,si,si,none,none,none,si,si
+none,si,none,none,none,si,none,none,none,none,no
+none,none,none,none,si,si,none,none,si,none,no
+none,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,none,none,none,none,none,none,neutro
+none,none,none,none,si,si,none,none,none,none,no
+si,none,none,none,si,none,none,none,si,none,si
+si,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,si,si,none,none,none,none,neutro
+none,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,si,none,none,none,none,none,si
+none,si,none,none,si,si,none,none,none,none,neutro
+none,si,none,none,none,none,none,none,none,none,neutro
+none,none,none,none,si,si,si,none,none,none,neutro
+si,none,none,none,none,si,none,none,none,none,neutro
+none,none,none,none,si,none,none,none,si,none,si
+none,none,none,none,none,si,none,none,none,none,neutro
+si,si,none,none,si,none,none,none,si,none,si
+none,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,none,si,none,none,si,none,si
+si,none,none,none,si,none,none,none,none,none,si
+none,none,none,none,si,si,none,none,none,none,si
+si,none,none,none,si,none,none,none,none,none,si
+si,si,none,none,si,si,none,none,si,none,si
+none,si,none,none,si,si,none,none,none,none,no
+none,none,none,none,si,si,none,none,none,none,neutro
+none,si,none,none,si,si,none,none,none,none,no
+none,si,none,none,si,si,none,none,none,si,no
+si,si,none,none,si,si,none,none,si,si,si
+si,none,none,none,si,none,none,none,none,none,si
+si,none,none,none,si,si,none,none,si,none,si
+si,none,none,none,si,si,none,none,none,none,si
+none,none,none,none,si,none,none,none,none,none,si
+si,none,none,none,si,none,none,none,none,none,si
+si,none,none,none,si,si,none,none,si,si,si
+none,si,none,none,si,si,none,none,none,none,no
+si,none,none,none,si,si,none,none,si,none,si
+none,none,none,none,si,si,none,none,none,si,neutro
+si,none,none,none,si,none,none,none,si,si,si
+none,si,none,none,si,si,none,none,si,si,no
+none,none,none,none,none,si,none,none,si,si,neutro
+si,none,none,none,si,si,none,none,si,si,si
+si,si,none,none,si,si,none,none,si,none,neutro
+si,si,none,none,si,si,none,none,none,none,neutro
+si,none,si,none,si,none,none,none,si,none,no
+none,none,none,none,si,none,none,none,none,none,si
+none,si,none,none,si,none,none,none,si,none,si
+none,none,none,none,si,none,none,none,none,none,si
+none,si,none,none,si,none,si,none,si,none,neutro
+none,si,none,none,si,none,none,none,si,none,neutro
+si,si,none,none,none,si,none,none,none,si,no
+none,none,none,none,none,si,none,none,none,none,no
+si,si,none,none,none,si,none,none,none,none,no
+si,si,none,none,none,si,none,none,none,none,no
